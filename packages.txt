@@ -112,6 +112,10 @@ ca-certificates
 cloud-init
 cpio
 curl
+firewalld
+htop
+lsof
+bash-completion
 dbus
 dbus-user-session
 distro-info
@@ -271,6 +275,7 @@ zlib1g
 nfs-common
 nfs-kernel-server
 samba
+iproute2
 winbind
 libpam-winbind
 libnss-winbind
